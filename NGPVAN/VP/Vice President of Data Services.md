@@ -1,8 +1,8 @@
 ## Summary
-**Department**: Data Services
-**Classification**: Senior Manager/Supervisor
-**Status**: Full Time
-**Location**: Washington, DC
+**Department**: Data Services<br>
+**Classification**: Senior Manager/Supervisor<br>
+**Status**: Full Time<br>
+**Location**: Washington, DC<br>
 
 EveryAction / NGP VAN is hiring a Vice President of Data Services to lead a team of data implementation specialists in a fast-paced, growing organization focused on delivering a unified development, digital, and organizing CRM software to nonprofit clients. Our Data Services team manages the scoping, mapping, and data migration for clients adopting our products. 
 
