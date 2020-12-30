@@ -12,38 +12,27 @@ As the head of the department, this person will also be responsible in areas of 
 
 ### Fit Requirements
 
-You should be someone who has: 
+You should be someone who has: <br>
 
 -   Prior experience managing a team responsible for delivering on multiple concurrent projects. 
-
 -   Ability to manage client relationships with a customer-first mentality, especially through sensitive data issues, and to solve problems effectively. 
-
 -   Record of success supporting a fast-paced business organization, providing technical expertise and solutions experience. 
-
 -   Experience with nonprofit data practices, specifically development, direct response plans and/or digital marketing. 
-
 -   Ability to influence across teams communicating technical concepts clearly and effectively, and demonstrating their value as part of our business and the customer experience 
-
 -   Experience executing or managing projects utilizing a formal or informal project management framework (Agile, Scrum, PMI, etc.) 
-
 -   Strong technical background in data and solutions architecture. 
 
-### Skill Requirements
+### Skill Requirements
 
 -   8+ years experience in data management and/or implementation services. 
-
 -   3+ years of experience with SaaS CRM platforms. 
-
 -   2+ years experience managing a technical team of all levels, including coaching and developing talent. 
 
-The most successful candidates will have: 
+### Skill Preferences
 
 -   Experience with the nonprofit and/or political technology market 
-
 -   Experience with budgets, sales pricing structures, and/or running a revenue-neutral services function focused on timely client delivery.  
-
 -   Experience with relational databases and data management best practices. 
-
 -   Understanding of good SQL software design practices. Analytics and reporting experience is a plus (though this position and department does not oversee internal analytics) 
 
 
